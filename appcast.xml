@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/iancona/codexqr-releases/releases/download/release/CodexQR.dmg" length="3077700" type="application/octet-stream" sparkle:edSignature="tFNXjL7cbyStMPRS5R5OSbB2dhpFTZrBuoKtAT25i76GBC1fbNUSpGpS9hsVVt5Nw1WyfmoljBU8+3o6szZLDg=="/>
+            <enclosure url="https://mailreply-c09faec98f4b.herokuapp.com/download/codexqrmac" length="3077700" type="application/octet-stream" sparkle:edSignature="tFNXjL7cbyStMPRS5R5OSbB2dhpFTZrBuoKtAT25i76GBC1fbNUSpGpS9hsVVt5Nw1WyfmoljBU8+3o6szZLDg=="/>
         </item>
     </channel>
 </rss>
