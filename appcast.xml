@@ -4,11 +4,11 @@
         <title>CodexQR</title>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 08 Jan 2026 17:03:25 +0100</pubDate>
+            <pubDate>Thu, 08 Jan 2026 20:50:43 +0100</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/iancona/CodexQR-macOS/main/CodexQR-1.0.dmg" length="3069945" type="application/octet-stream" sparkle:edSignature="H9zapmJUZbo1UysHJDs1D87TR1VTA6C7IfDwIg4FYJEoV7ykDSrWhCe/b0uc0Hzjhoqw6u+7ImJgQQ0kalrvAQ=="/>
+            <enclosure url="https://github.com/iancona/codexqr-releases/releases/download/release/CodexQR.dmg" length="3077759" type="application/octet-stream" sparkle:edSignature="ha+eN1BeV0h1OPoYcJ7ivw+H6z2SG4tog24VfJGfF9cPJVPO50D2A+7FLCirgoIB+vR3OAJfEDYWIhW4LqCAAg=="/>
         </item>
     </channel>
 </rss>
