@@ -10,6 +10,6 @@ Official releases and auto-update feed for [CodexQR](https://codexqr.app/?utm_so
 ## Links
 - 🌐 Website: [codexqr.app](https://codexqr.app/?utm_source=github-macos)
 - 🛒 Purchase: [codexqr.app/#pricing](https://codexqr.app/?utm_source=github-macos#pricing)
-- 📧 Support: support@codexqr.app
+- 📧 Support: info@codexqr.app
 ---
 *This repository hosts the Sparkle appcast for automatic updates.*
