@@ -4,11 +4,11 @@
         <title>CodexQR</title>
         <item>
             <title>1.1</title>
-            <pubDate>Thu, 08 Jan 2026 21:05:58 +0100</pubDate>
+            <pubDate>Fri, 09 Jan 2026 23:23:48 +0100</pubDate>
             <sparkle:version>1.1</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://mailreply-c09faec98f4b.herokuapp.com/download/codexqrmac" length="3201046" type="application/octet-stream" sparkle:edSignature="DWfsNpm/L6BgLaofOwdYwTOMvPq22JJfBqBA3EZA8zDrt9pRRfBDhUZzTUcAZYZ9Sz9xgvVt5AC1wKiKb5qJBg=="/>
+            <enclosure url="https://mailreply-c09faec98f4b.herokuapp.com/download/codexqrmac" length="3201297" type="application/octet-stream" sparkle:edSignature="LccW9N7XdyABNZXSEB/XS4BYuL02bBFpqcqGNCPxozKMObq+G24UFCUk4kYapK64PhkXCnZKExwPvOe2r3t7Bw=="/>
         </item>
     </channel>
 </rss>
