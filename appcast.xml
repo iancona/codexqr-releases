@@ -3,12 +3,12 @@
     <channel>
         <title>CodexQR</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Sat, 10 Jan 2026 00:22:10 +0100</pubDate>
-            <sparkle:version>1.0</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <title>1.2</title>
+            <pubDate>Thu, 09 Apr 2026 17:08:58 +0200</pubDate>
+            <sparkle:version>1.2</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/iancona/codexqr-releases/releases/download/v1.0/CodexQR.dmg" length="3201346" type="application/octet-stream" sparkle:edSignature="s60H7cCHHjNw+ukTy9+8AL6ABVBQZRDEApN0FdhgkFlo5bGgRLO4Hixm5BCARlVz2ao8Pmek9hhBS8/jbV2VCA=="/>
+            <enclosure url="https://github.com/iancona/codexqr-releases/releases/download/v1.2/CodexQR.dmg" length="2906214" type="application/octet-stream" sparkle:edSignature="42o8SJ57xcFqerKLEtaWIjREYUfNfjkqx8K0LXPpwCShEK0xBTr8HAhvTa7X+zbQPYjIw4LyhUF/Y3DhO/skBg=="/>
         </item>
     </channel>
 </rss>
