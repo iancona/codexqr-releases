@@ -3,6 +3,14 @@
     <channel>
         <title>CodexQR</title>
         <item>
+            <title>1.5</title>
+            <pubDate>Wed, 13 May 2026 17:32:07 +0200</pubDate>
+            <sparkle:version>1.5</sparkle:version>
+            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/iancona/codexqr-releases/releases/download/release/CodexQR.dmg" length="3464631" type="application/octet-stream" sparkle:edSignature="Cf00JuG1TH+6PyvCb3lK89fCMb/yrXMTbsepSVhRYWQhCtQ06e8qU622SWMgNF/ub/QFb/pKmNfrsY6znxLWAA=="/>
+        </item>
+        <item>
             <title>1.4</title>
             <pubDate>Tue, 12 May 2026 01:30:53 +0200</pubDate>
             <sparkle:version>1.4</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <enclosure url="https://mailreply-c09faec98f4b.herokuapp.com/download/codexqrmac" length="2918384" type="application/octet-stream" sparkle:edSignature="ukgRdp6OEU07gO7Rypmc0jTyY8z66AQvUgEXoHMLSc40YKzPbHhBdxRN6jY651bTm4nFX9ynSM2FiD0GwUo5AQ=="/>
-        </item>
-        <item>
-            <title>1.2</title>
-            <pubDate>Thu, 09 Apr 2026 17:13:16 +0200</pubDate>
-            <sparkle:version>1.2</sparkle:version>
-            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://mailreply-c09faec98f4b.herokuapp.com/download/codexqrmac" length="2906214" type="application/octet-stream" sparkle:edSignature="42o8SJ57xcFqerKLEtaWIjREYUfNfjkqx8K0LXPpwCShEK0xBTr8HAhvTa7X+zbQPYjIw4LyhUF/Y3DhO/skBg=="/>
         </item>
     </channel>
 </rss>
