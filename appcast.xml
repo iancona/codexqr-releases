@@ -3,6 +3,21 @@
     <channel>
         <title>CodexQR</title>
         <item>
+            <title>1.8</title>
+            <pubDate>Tue, 21 Jul 2026 00:07:34 +0200</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>CodexQR 1.8</h3>
+                <ul>
+                    <li><b>Generate a WiFi QR code from your current network</b> — one click on “Use Current Network” fills the network name and password automatically.</li>
+                    <li>Reliability improvements for WiFi features.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://mailreply-c09faec98f4b.herokuapp.com/download/codexqrmac" length="3481094" type="application/octet-stream" sparkle:edSignature="11tYYAv4SetWJOOjx4tA8Gndhsj2yorn4Kkzp5Y8XN+nXDkg3XW2s7AAST4NSckIDHOYtGI5Iq8vRMIr8cKRCw=="/>
+        </item>
+        <item>
             <title>1.7</title>
             <pubDate>Sat, 18 Jul 2026 00:27:28 +0200</pubDate>
             <sparkle:version>17</sparkle:version>
@@ -17,14 +32,6 @@
             <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <enclosure url="https://mailreply-c09faec98f4b.herokuapp.com/download/codexqrmac" length="3475460" type="application/octet-stream" sparkle:edSignature="KJMea5zcVqWC5rdJC/aoBLtJmX3Me/nNxTwPccyGpLI33Q8ZFGKl/6ARJxOjr4F05MUHrj7mPg4w38bI9SY8DA=="/>
-        </item>
-        <item>
-            <title>1.5</title>
-            <pubDate>Wed, 13 May 2026 17:32:07 +0200</pubDate>
-            <sparkle:version>1.5</sparkle:version>
-            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://mailreply-c09faec98f4b.herokuapp.com/download/codexqrmac" length="3464631" type="application/octet-stream" sparkle:edSignature="Cf00JuG1TH+6PyvCb3lK89fCMb/yrXMTbsepSVhRYWQhCtQ06e8qU622SWMgNF/ub/QFb/pKmNfrsY6znxLWAA=="/>
         </item>
     </channel>
 </rss>
